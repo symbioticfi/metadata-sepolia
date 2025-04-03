@@ -1,0 +1,15 @@
+{
+  "name": "Network 8736",
+  "description": "Network4709d01007788ecfef90a015144f4e278d498736",
+  "tags": [
+    "network",
+    "Network 8736"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x4709d01007788ecfef90a015144f4e278d498736"
+    }
+  ]
+}

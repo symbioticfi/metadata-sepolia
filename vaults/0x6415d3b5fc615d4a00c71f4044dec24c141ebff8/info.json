@@ -1,0 +1,15 @@
+{
+  "name": "Vault UNKNOWN_bff8",
+  "description": "VaultUNKNOWN_6415d3b5fc615d4a00c71f4044dec24c141ebff8",
+  "tags": [
+    "vault",
+    "token:UNKNOWN_bff8"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x6415d3b5fc615d4a00c71f4044dec24c141ebff8"
+    }
+  ]
+}

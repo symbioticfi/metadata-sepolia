@@ -1,0 +1,15 @@
+{
+  "name": "Vault wstETH_b52d",
+  "description": "VaultwstETH_de40532de8fdcb2151a9863ebb33c74d18b8b52d",
+  "tags": [
+    "vault",
+    "token:wstETH_b52d"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xde40532de8fdcb2151a9863ebb33c74d18b8b52d"
+    }
+  ]
+}

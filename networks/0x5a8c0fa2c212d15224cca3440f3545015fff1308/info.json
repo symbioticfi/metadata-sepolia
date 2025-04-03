@@ -1,0 +1,15 @@
+{
+  "name": "Network 1308",
+  "description": "Network5a8c0fa2c212d15224cca3440f3545015fff1308",
+  "tags": [
+    "network",
+    "Network 1308"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x5a8c0fa2c212d15224cca3440f3545015fff1308"
+    }
+  ]
+}

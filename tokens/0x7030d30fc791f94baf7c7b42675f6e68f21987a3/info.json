@@ -1,0 +1,16 @@
+{
+  "name": "wstETH_36a4",
+  "description": "VaultwstETH_400f870f26201dfc6d6b59cfa5ac317be2cf36a4",
+  "tags": [
+    "token",
+    "wstETH_36a4"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x7030d30fc791f94baf7c7b42675f6e68f21987a3"
+    }
+  ],
+  "cmcId": "12409"
+}

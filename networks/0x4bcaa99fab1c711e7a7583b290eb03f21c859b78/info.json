@@ -1,0 +1,15 @@
+{
+  "name": "Network 9b78",
+  "description": "Network4bcaa99fab1c711e7a7583b290eb03f21c859b78",
+  "tags": [
+    "network",
+    "Network 9b78"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x4bcaa99fab1c711e7a7583b290eb03f21c859b78"
+    }
+  ]
+}

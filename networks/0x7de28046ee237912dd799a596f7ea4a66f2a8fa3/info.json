@@ -1,0 +1,15 @@
+{
+  "name": "Network 8fa3",
+  "description": "Network7de28046ee237912dd799a596f7ea4a66f2a8fa3",
+  "tags": [
+    "network",
+    "Network 8fa3"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x7de28046ee237912dd799a596f7ea4a66f2a8fa3"
+    }
+  ]
+}

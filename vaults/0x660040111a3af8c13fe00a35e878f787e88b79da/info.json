@@ -1,0 +1,15 @@
+{
+  "name": "Vault wstETH_79da",
+  "description": "VaultwstETH_660040111a3af8c13fe00a35e878f787e88b79da",
+  "tags": [
+    "vault",
+    "token:wstETH_79da"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x660040111a3af8c13fe00a35e878f787e88b79da"
+    }
+  ]
+}

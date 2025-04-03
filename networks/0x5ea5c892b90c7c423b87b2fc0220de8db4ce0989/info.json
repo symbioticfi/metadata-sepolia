@@ -1,0 +1,15 @@
+{
+  "name": "Network 0989",
+  "description": "Network5ea5c892b90c7c423b87b2fc0220de8db4ce0989",
+  "tags": [
+    "network",
+    "Network 0989"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x5ea5c892b90c7c423b87b2fc0220de8db4ce0989"
+    }
+  ]
+}

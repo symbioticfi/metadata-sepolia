@@ -1,0 +1,15 @@
+{
+  "name": "Vault wstETH_cd2a",
+  "description": "VaultwstETH_77f170dcd0439c0057055a6d7e5a1eb9c48ccd2a",
+  "tags": [
+    "vault",
+    "token:wstETH_cd2a"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x77f170dcd0439c0057055a6d7e5a1eb9c48ccd2a"
+    }
+  ]
+}

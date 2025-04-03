@@ -1,0 +1,15 @@
+{
+  "name": "Vault ZKL_1075",
+  "description": "VaultZKL_106c5da39860cb1ee5a86d4e3847fbe9ab071075",
+  "tags": [
+    "vault",
+    "token:ZKL_1075"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x106c5da39860cb1ee5a86d4e3847fbe9ab071075"
+    }
+  ]
+}

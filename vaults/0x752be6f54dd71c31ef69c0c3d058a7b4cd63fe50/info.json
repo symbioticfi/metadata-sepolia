@@ -1,0 +1,15 @@
+{
+  "name": "Vault IBTC_fe50",
+  "description": "VaultIBTC_752be6f54dd71c31ef69c0c3d058a7b4cd63fe50",
+  "tags": [
+    "vault",
+    "token:IBTC_fe50"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x752be6f54dd71c31ef69c0c3d058a7b4cd63fe50"
+    }
+  ]
+}

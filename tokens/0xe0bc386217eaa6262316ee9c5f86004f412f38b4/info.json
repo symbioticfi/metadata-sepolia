@@ -1,0 +1,16 @@
+{
+  "name": "ZKL_1075",
+  "description": "VaultZKL_106c5da39860cb1ee5a86d4e3847fbe9ab071075",
+  "tags": [
+    "token",
+    "ZKL_1075"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xe0bc386217eaa6262316ee9c5f86004f412f38b4"
+    }
+  ],
+  "cmcId": "13039"
+}

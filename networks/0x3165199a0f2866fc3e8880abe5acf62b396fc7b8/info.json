@@ -1,0 +1,15 @@
+{
+  "name": "Network c7b8",
+  "description": "Network3165199a0f2866fc3e8880abe5acf62b396fc7b8",
+  "tags": [
+    "network",
+    "Network c7b8"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x3165199a0f2866fc3e8880abe5acf62b396fc7b8"
+    }
+  ]
+}

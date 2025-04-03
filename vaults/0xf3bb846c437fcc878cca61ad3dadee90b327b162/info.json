@@ -1,0 +1,15 @@
+{
+  "name": "Vault STK_b162",
+  "description": "VaultSTK_f3bb846c437fcc878cca61ad3dadee90b327b162",
+  "tags": [
+    "vault",
+    "token:STK_b162"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xf3bb846c437fcc878cca61ad3dadee90b327b162"
+    }
+  ]
+}

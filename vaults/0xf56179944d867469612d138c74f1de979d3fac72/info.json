@@ -1,0 +1,15 @@
+{
+  "name": "Vault VYPER_ac72",
+  "description": "VaultVYPER_f56179944d867469612d138c74f1de979d3fac72",
+  "tags": [
+    "vault",
+    "token:VYPER_ac72"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xf56179944d867469612d138c74f1de979d3fac72"
+    }
+  ]
+}

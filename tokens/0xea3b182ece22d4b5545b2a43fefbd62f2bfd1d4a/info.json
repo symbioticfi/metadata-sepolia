@@ -1,0 +1,16 @@
+{
+  "name": "USDC_63e1",
+  "description": "VaultUSDC_38ebe8546e2dc321835ff1e02c26f5a4bbcc63e1",
+  "tags": [
+    "token",
+    "USDC_63e1"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xea3b182ece22d4b5545b2a43fefbd62f2bfd1d4a"
+    }
+  ],
+  "cmcId": ""
+}

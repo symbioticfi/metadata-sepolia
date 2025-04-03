@@ -1,0 +1,15 @@
+{
+  "name": "Network 5159",
+  "description": "Networkec0c7716d57bf13273bb5ce260d2052536a95159",
+  "tags": [
+    "network",
+    "Network 5159"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xec0c7716d57bf13273bb5ce260d2052536a95159"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "IBTC_fe50",
+  "description": "VaultIBTC_752be6f54dd71c31ef69c0c3d058a7b4cd63fe50",
+  "tags": [
+    "token",
+    "IBTC_fe50"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xeb762ed11a09e4a394c9c8101f8aeeaf5382ed74"
+    }
+  ],
+  "cmcId": "32716"
+}

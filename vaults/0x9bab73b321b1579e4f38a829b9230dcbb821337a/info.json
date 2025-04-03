@@ -1,0 +1,15 @@
+{
+  "name": "Vault STK_337a",
+  "description": "VaultSTK_9bab73b321b1579e4f38a829b9230dcbb821337a",
+  "tags": [
+    "vault",
+    "token:STK_337a"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x9bab73b321b1579e4f38a829b9230dcbb821337a"
+    }
+  ]
+}

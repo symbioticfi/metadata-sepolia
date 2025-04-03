@@ -1,0 +1,16 @@
+{
+  "name": "STK_521d",
+  "description": "VaultSTK_41f5f6697d7388a6547e202d82ef938e8def521d",
+  "tags": [
+    "token",
+    "STK_521d"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x7858d1e3c002a6cfc2bc8e35f29106f360318a66"
+    }
+  ],
+  "cmcId": ""
+}

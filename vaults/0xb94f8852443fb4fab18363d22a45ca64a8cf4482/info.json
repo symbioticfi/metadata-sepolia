@@ -1,0 +1,15 @@
+{
+  "name": "Vault stETH_4482",
+  "description": "VaultstETH_b94f8852443fb4fab18363d22a45ca64a8cf4482",
+  "tags": [
+    "vault",
+    "token:stETH_4482"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xb94f8852443fb4fab18363d22a45ca64a8cf4482"
+    }
+  ]
+}

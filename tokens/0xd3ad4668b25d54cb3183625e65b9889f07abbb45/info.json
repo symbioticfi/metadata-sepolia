@@ -1,0 +1,16 @@
+{
+  "name": "STK_f0b3",
+  "description": "VaultSTK_1ad037ea75ffaeb0f890c527d9ef574ef545f0b3",
+  "tags": [
+    "token",
+    "STK_f0b3"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xd3ad4668b25d54cb3183625e65b9889f07abbb45"
+    }
+  ],
+  "cmcId": ""
+}

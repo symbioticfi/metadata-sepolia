@@ -1,0 +1,16 @@
+{
+  "name": "USDT_7d4b",
+  "description": "VaultUSDT_2e283c3d34e8278d75a1c7ad4c7703c14bb47d4b",
+  "tags": [
+    "token",
+    "USDT_7d4b"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xe90a57a45f1eae578f5aec8eed5ba8fc6f55ef65"
+    }
+  ],
+  "cmcId": ""
+}

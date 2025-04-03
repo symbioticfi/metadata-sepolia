@@ -1,0 +1,15 @@
+{
+  "name": "Vault STK_dc44",
+  "description": "VaultSTK_8fd82c620a39bae0ad637822b797630b79e2dc44",
+  "tags": [
+    "vault",
+    "token:STK_dc44"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x8fd82c620a39bae0ad637822b797630b79e2dc44"
+    }
+  ]
+}

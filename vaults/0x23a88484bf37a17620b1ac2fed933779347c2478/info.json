@@ -1,0 +1,15 @@
+{
+  "name": "Vault wstETH_2478",
+  "description": "VaultwstETH_23a88484bf37a17620b1ac2fed933779347c2478",
+  "tags": [
+    "vault",
+    "token:wstETH_2478"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x23a88484bf37a17620b1ac2fed933779347c2478"
+    }
+  ]
+}

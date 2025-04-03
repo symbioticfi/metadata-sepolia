@@ -1,0 +1,15 @@
+{
+  "name": "Network a512",
+  "description": "Network8f7b28c2a36e805f4024c1ae1e96a4b75e50a512",
+  "tags": [
+    "network",
+    "Network a512"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x8f7b28c2a36e805f4024c1ae1e96a4b75e50a512"
+    }
+  ]
+}

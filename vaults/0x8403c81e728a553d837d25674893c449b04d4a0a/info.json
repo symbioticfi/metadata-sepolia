@@ -1,0 +1,15 @@
+{
+  "name": "Vault IBTC_4a0a",
+  "description": "VaultIBTC_8403c81e728a553d837d25674893c449b04d4a0a",
+  "tags": [
+    "vault",
+    "token:IBTC_4a0a"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x8403c81e728a553d837d25674893c449b04d4a0a"
+    }
+  ]
+}

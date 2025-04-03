@@ -1,0 +1,15 @@
+{
+  "name": "Vault STK_7c04",
+  "description": "VaultSTK_d23ef196003f2f296732c73ca71de34b269e7c04",
+  "tags": [
+    "vault",
+    "token:STK_7c04"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xd23ef196003f2f296732c73ca71de34b269e7c04"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Network 95fd",
+  "description": "Network3b29236323d90e62782737eaef81a2dfdbfb95fd",
+  "tags": [
+    "network",
+    "Network 95fd"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x3b29236323d90e62782737eaef81a2dfdbfb95fd"
+    }
+  ]
+}

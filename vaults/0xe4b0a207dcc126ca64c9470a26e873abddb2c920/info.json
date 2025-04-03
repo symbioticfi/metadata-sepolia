@@ -1,0 +1,15 @@
+{
+  "name": "Vault STK_c920",
+  "description": "VaultSTK_e4b0a207dcc126ca64c9470a26e873abddb2c920",
+  "tags": [
+    "vault",
+    "token:STK_c920"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xe4b0a207dcc126ca64c9470a26e873abddb2c920"
+    }
+  ]
+}

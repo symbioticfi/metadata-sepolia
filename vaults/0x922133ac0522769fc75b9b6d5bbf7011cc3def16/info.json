@@ -1,0 +1,15 @@
+{
+  "name": "Vault wstETH_ef16",
+  "description": "VaultwstETH_922133ac0522769fc75b9b6d5bbf7011cc3def16",
+  "tags": [
+    "vault",
+    "token:wstETH_ef16"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x922133ac0522769fc75b9b6d5bbf7011cc3def16"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Vault stETH_b67e",
+  "description": "VaultstETH_94ba7bb350d8d15720c70ba9216985aa3165b67e",
+  "tags": [
+    "vault",
+    "token:stETH_b67e"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x94ba7bb350d8d15720c70ba9216985aa3165b67e"
+    }
+  ]
+}

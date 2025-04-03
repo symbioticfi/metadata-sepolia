@@ -1,0 +1,16 @@
+{
+  "name": "WETH_efa0",
+  "description": "VaultWETH_3a487f86220a0f90166f91f61be5971d058eefa0",
+  "tags": [
+    "token",
+    "WETH_efa0"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x5fe726b9af8f0f47b2bafbabda92ef074a829778"
+    }
+  ],
+  "cmcId": ""
+}

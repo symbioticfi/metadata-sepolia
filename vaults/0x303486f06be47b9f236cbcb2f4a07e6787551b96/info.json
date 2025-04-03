@@ -1,0 +1,15 @@
+{
+  "name": "Vault STK_1b96",
+  "description": "VaultSTK_303486f06be47b9f236cbcb2f4a07e6787551b96",
+  "tags": [
+    "vault",
+    "token:STK_1b96"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x303486f06be47b9f236cbcb2f4a07e6787551b96"
+    }
+  ]
+}

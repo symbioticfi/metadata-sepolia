@@ -1,0 +1,15 @@
+{
+  "name": "Vault STK_c431",
+  "description": "VaultSTK_cda368ec6a4aefc1705db31e43b569dcd625c431",
+  "tags": [
+    "vault",
+    "token:STK_c431"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xcda368ec6a4aefc1705db31e43b569dcd625c431"
+    }
+  ]
+}

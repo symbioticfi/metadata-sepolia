@@ -1,0 +1,15 @@
+{
+  "name": "Network 9d36",
+  "description": "Network44ea7acf8785d9274047e05c249ba80f7ff79d36",
+  "tags": [
+    "network",
+    "Network 9d36"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x44ea7acf8785d9274047e05c249ba80f7ff79d36"
+    }
+  ]
+}
