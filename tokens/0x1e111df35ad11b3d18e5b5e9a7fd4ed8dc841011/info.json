@@ -1,16 +1,23 @@
 {
-  "name": "VYPER_ac72",
-  "description": "VaultVYPER_f56179944d867469612d138c74f1de979d3fac72",
-  "tags": [
-    "token",
-    "VYPER_ac72"
-  ],
+  "name": "HYPER",
+  "description": "HYPER is the Hyperlane protocol's token.",
+  "tags": ["modular", "permissionless", "cross-chain", "interoperability"],
   "links": [
     {
+      "type": "website",
+      "name": "Website",
+      "url": "https://hyperlane.xyz/"
+    },
+    {
       "type": "explorer",
-      "name": "Etherscan",
-      "url": "https://sepolia.etherscan.io/address/0x1e111df35ad11b3d18e5b5e9a7fd4ed8dc841011"
+      "name": "Message Explorer",
+      "url": "https://explorer.hyperlane.xyz"
+    },
+    {
+      "type": "docs",
+      "name": "Hyperlane Documentation",
+      "url": "https://docs.hyperlane.xyz/"
     }
   ],
-  "cmcId": ""
+  "cmcId": "36281"
 }
