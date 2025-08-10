@@ -18,5 +18,11 @@
       "name": "Hyperlane Documentation",
       "url": "https://docs.hyperlane.xyz/"
     }
+  ],
+  "rewards": [
+    {
+      "address": "0xe0bf535F776d900D499407623C03bACe81334127",
+      "type": "defaultStakingRewardsV2"
+    }
   ]
 }
