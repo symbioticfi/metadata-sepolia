@@ -1,0 +1,12 @@
+{
+  "name": "Vault Test111",
+  "description": "Vault Test 111",
+  "tags": ["vault", "token:111"],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x6E2ea1a47E9Dd2B7A7019a9D875f0033Cc596260"
+    }
+  ]
+}
