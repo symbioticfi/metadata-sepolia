@@ -11,5 +11,6 @@
       "name": "Etherscan",
       "url": "https://sepolia.etherscan.io/address/0x49fc19bae549e0b5f99b5b42d7222caf09e8d2a1"
     }
-  ]
+  ],
+  "curatorId": "curator-1"
 }
