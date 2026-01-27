@@ -38,6 +38,7 @@ jobs:
           issue: ${{ github.event.number }}
           token: ${{ secrets.GITHUB_TOKEN }}
           chain-id: 11155111
+          rpc-url: https://sepolia.infura.io/v3/${{ secrets.RPC_URL_TOKEN }}
           upstream-checkout-path: upstream
           network-registry: "0x7d03b7343bf8d5cec7c0c27ece084a20113d15c9"
           operator-registry: "0x6f75a4fff97326a00e52662d82ea4fde86a2c548"
