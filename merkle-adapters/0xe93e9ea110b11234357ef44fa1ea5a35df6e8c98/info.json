@@ -1,0 +1,33 @@
+{
+  "chains": [
+    {
+      "chainId": 11155111,
+      "protocols": [
+        {
+          "protocol": "tokens",
+          "ids": ["0x809e6c18bc13cc7c9f7b8000d74243baacce84d7"]
+        },
+        {
+          "protocol": "aave_v3",
+          "ids": ["core"]
+        },
+        {
+          "protocol": "aave_v4",
+          "ids": ["0x07f6cd389c817cd415d0fa3c40270e2033d2a13b"]
+        },
+        {
+          "protocol": "morpho_vaultv2",
+          "ids": ["0x8639658c531f84141a488367f6797db91e0a703f"]
+        },
+        {
+          "protocol": "three_f",
+          "ids": []
+        },
+        {
+          "protocol": "merkl",
+          "ids": []
+        }
+      ]
+    }
+  ]
+}
