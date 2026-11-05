@@ -6,8 +6,7 @@
         {
           "protocol": "tokens",
           "ids": [
-            "0x809e6c18bc13cc7c9f7b8000d74243baacce84d7",
-            "0x79c9c052fc38a4898d195e96d1004455ef2ae7ab"
+            "0x809e6c18bc13cc7c9f7b8000d74243baacce84d7"
           ]
         },
         {
@@ -30,6 +29,10 @@
         },
         {
           "protocol": "three_f",
+          "ids": []
+        },
+        {
+          "protocol": "mglobal",
           "ids": []
         }
       ]
