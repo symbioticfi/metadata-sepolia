@@ -12,22 +12,24 @@
         },
         {
           "protocol": "aave_v3",
-          "ids": ["core"]
+          "ids": [
+            "core"
+          ]
         },
         {
           "protocol": "aave_v4",
-          "ids": ["0x07f6cd389c817cd415d0fa3c40270e2033d2a13b"]
+          "ids": [
+            "0x07f6cd389c817cd415d0fa3c40270e2033d2a13b"
+          ]
         },
         {
           "protocol": "morpho_vaultv2",
-          "ids": ["0x8639658c531f84141a488367f6797db91e0a703f"]
+          "ids": [
+            "0x8639658c531f84141a488367f6797db91e0a703f"
+          ]
         },
         {
           "protocol": "three_f",
-          "ids": []
-        },
-        {
-          "protocol": "merkl",
           "ids": []
         }
       ]
