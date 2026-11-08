@@ -1,0 +1,16 @@
+{
+  "name": "mGLOBAL",
+  "description": "Sepolia mGLOBAL test deployment using upstream Midas contracts with instant minting and asynchronous redemption.",
+  "tags": [
+    "token",
+    "rwa",
+    "testnet"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/token/0x72b1e6532b1251db1821fd50c6f0f987b0739aa4"
+    }
+  ]
+}

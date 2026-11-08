@@ -26,6 +26,10 @@
         {
           "protocol": "merkl",
           "ids": []
+        },
+        {
+          "protocol": "mglobal",
+          "ids": []
         }
       ]
     }
