@@ -1,0 +1,12 @@
+{
+  "name": "Wrapped Testnet Ether",
+  "description": "Sepolia WETH collateral used by the test Aave market.",
+  "tags": [],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x2AfafC291c1b80c4BdE81dd7947CA7673152137c"
+    }
+  ]
+}

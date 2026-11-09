@@ -1,0 +1,26 @@
+{
+  "chains": [
+    {
+      "chainId": 11155111,
+      "protocols": [
+        {
+          "protocol": "tokens",
+          "ids": [
+            "0x2afafc291c1b80c4bde81dd7947ca7673152137c",
+            "0x809e6c18bc13cc7c9f7b8000d74243baacce84d7"
+          ]
+        },
+        {
+          "protocol": "aave_v3",
+          "ids": [
+            "core"
+          ]
+        },
+        {
+          "protocol": "mglobal",
+          "ids": []
+        }
+      ]
+    }
+  ]
+}

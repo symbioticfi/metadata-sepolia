@@ -1,0 +1,8 @@
+{
+  "name": "Sepolia WETH mGLOBAL Carry",
+  "description": "Sepolia test vault supplying WETH to Aave, borrowing USDC at a minimum 1.2 health factor, and minting mGLOBAL. Native mGLOBAL redemption repays debt and releases WETH for withdrawals.",
+  "tags": [
+    "DeFi"
+  ],
+  "links": []
+}
